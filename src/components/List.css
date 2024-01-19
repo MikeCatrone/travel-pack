@@ -1,0 +1,54 @@
+h3 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.listContainer {
+    background-color: #1f648a;
+    border: 3px solid rgb(203, 155, 97);
+    width: 70rem;
+    height: 47rem;
+    margin:auto;
+    margin-top: 5rem;
+    border-radius: 8px;
+}
+
+.listContainer h2 {
+    text-align: center;
+}
+
+.theLogo {
+    
+    padding: 1rem;
+    width: 50rem;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 8px;
+    color: #c4f2c7;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.inputSpan .numField {
+    width: 2.5rem;
+    padding: 0.5rem;
+    margin-right: 2rem;
+    border-radius: 50px;
+}
+
+
+
+.textField {
+    padding: 0.5rem;
+    border-radius: 50px;
+}
+
+
+input:focus {
+    border-color: coral;
+
+}
+
+.inputContainer {
+    margin-left: 13rem;
+}

@@ -1,0 +1,23 @@
+
+.packingList {
+    background-color: #D2E3C8 ;
+    width: 45rem;
+    height: 25rem;
+    margin: auto;
+    margin-top: 2rem;
+    border: 3px solid white;
+    border-radius: 8px;
+    overflow-y: scroll;
+    text-align: center;
+    margin-bottom: 1rem;
+    
+    
+}
+
+.packingList h2 {
+    color: #86A789;
+}
+
+hr {
+    width: 70%;
+}
