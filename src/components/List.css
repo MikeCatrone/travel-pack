@@ -3,15 +3,7 @@ h3 {
     font-family: sans-serif;
 }
 
-.listContainer {
-    background-color: #1f648a;
-    border: 3px solid rgb(203, 155, 97);
-    width: 70rem;
-    height: 47rem;
-    margin:auto;
-    margin-top: 5rem;
-    border-radius: 8px;
-}
+
 
 .listContainer h2 {
     text-align: center;
@@ -51,4 +43,24 @@ input:focus {
 
 .inputContainer {
     margin-left: 13rem;
+}
+
+
+
+@media (max-width: 800px) {
+
+
+    .listContainer {
+        background-color: #1f648a;
+        border: 3px solid rgb(203, 155, 97);
+        width: 46rem;
+        height: 70rem;
+        margin:auto;
+        margin-top: 5rem;
+        border-radius: 8px;
+    }
+
+    .theLogo {
+        width: 45rem;
+    }
 }
