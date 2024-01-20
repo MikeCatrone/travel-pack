@@ -27,5 +27,6 @@ hr {
 @media (max-width: 800px) {
     .packingList {
         width:95%;
+        margin-bottom: 0.25rem;
     }
 }

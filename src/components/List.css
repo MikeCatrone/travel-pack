@@ -66,19 +66,31 @@ input:focus {
         background-color: #0B60B0;
         border: none;
         width: 95%;
-        height: 70rem;
+        height: 99%;
         margin:auto;
-        margin-top: 5rem;
+        margin-top: 0;
         border-radius: 8px;
     }
 
-    .theLogo {
-        width: 45rem;
-    }
 
     .inputContainer {
         margin-left: 0;
     }
 
-    
+    .theLogo {
+        width: 90%;
+        margin-top: 1rem;
+        margin-left: 0;
+        padding-left: 0;
+        font-size: 50px;
+    }
+
+    button {
+        margin-left: 0.20rem;
+        margin-top: 1.25rem;
+    }
+
+    h2 {
+        margin-top: 0;
+    }
 }
