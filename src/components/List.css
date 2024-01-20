@@ -9,6 +9,18 @@ h3 {
     text-align: center;
 }
 
+
+.listContainer {
+    background-color: #1f648a;
+    border: 3px solid rgb(203, 155, 97);
+    width: 75rem;
+    height: 50rem;
+    margin:auto;
+    margin-top: 5rem;
+    border-radius: 8px;
+}
+
+
 .theLogo {
     
     padding: 1rem;
@@ -51,9 +63,9 @@ input:focus {
 
 
     .listContainer {
-        background-color: #1f648a;
-        border: 3px solid rgb(203, 155, 97);
-        width: 46rem;
+        background-color: #0B60B0;
+        border: none;
+        width: 95%;
         height: 70rem;
         margin:auto;
         margin-top: 5rem;
@@ -63,4 +75,10 @@ input:focus {
     .theLogo {
         width: 45rem;
     }
+
+    .inputContainer {
+        margin-left: 0;
+    }
+
+    
 }
